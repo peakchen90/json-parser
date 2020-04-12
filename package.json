@@ -1,0 +1,31 @@
+{
+  "name": "json-parser",
+  "version": "1.0.0",
+  "description": "A simple json parser",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peakchen90/json-parser.git"
+  },
+  "keywords": [
+    "json",
+    "json parser",
+    "json5",
+    "ast"
+  ],
+  "author": "peakchen90 <1558267774@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/peakchen90/json-parser/issues"
+  },
+  "homepage": "https://github.com/peakchen90/json-parser#readme",
+  "devDependencies": {
+    "jest": "^25.3.0"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
